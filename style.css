@@ -1,0 +1,162 @@
+
+
+.Banner-section {
+   background-image: url(images/Banner\ Image.png);
+   background-size: cover;
+   border: 20px solid white;
+   width: 1320px;
+   height: 600px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+  
+   
+}
+.Banner-section h1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Banner-section h2 {
+    color: #0abba6;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line: height 95px;
+}
+/* section 2 */
+.section-2{
+    padding: 50PX 0;
+    text-align: center;
+}
+.discount{
+    color: red;
+    font-size: 88PX;
+    font-weight: 700;
+}
+.section-2 h2{
+    color: RED;
+    font-size: 24px;
+    font-weight: 500;
+}
+.section-2 h1{
+    color: black;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* styling welcome section: section 3*/
+.welcome-section{
+position: relative;
+background-image: url(images/Vectorrr.png);
+background-size: cover;
+border: 20px solid white;
+width:1320PX ;
+height: 600PX;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 0 20px;
+text-align: center;
+
+}
+
+.welcome-section h2{
+    color: white;
+    font-size: 64px;
+    font-weight: 900;
+}
+.welcome-section p{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 400;
+}
+.logo{
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+/* section 4 */
+.section4 {
+   padding: 20px 80px 60px 70px;
+   border: 30px solid white;
+   border-radius: 40px ;
+    background-color:rgba(255, 192, 203, 0.059);
+    display: flex;
+    justify-content: center;
+}
+#red{
+    color: red;
+}
+/* section 5 */
+.section5{
+padding: auto;
+    display: flex;
+    align-items: center;
+justify-content: space-between;
+border: 30px solid white;
+}
+.ok{
+    color: red;
+}
+
+/* section 6 */
+.section6 {
+    border: 20px solid white;
+}
+/* section 7 */
+.all-text{
+    display: center;
+   
+}
+.section7{
+    border-radius: 10px solid white;
+    padding-left: 20px;
+}
+.section7 h4{
+    color: red;
+}
+.section8 {
+    display: center;
+    justify-content: space-between;
+    padding-left: 500px;
+}
+.img{
+    padding-left: 100px;
+}
+.mail{
+   border-radius: 10px;
+}
+.btn{
+    border-radius: 10px;
+    background-color: red;
+   color: #FFF;
+}
+.footer{
+    background-color: black;
+    color: #FFF;
+}
+.main-div{
+display: flex;
+justify-content: space-around;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+}
+.finish{
+    display: flex;
+    justify-content: space-around;
+}
